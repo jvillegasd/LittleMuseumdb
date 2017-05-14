@@ -1,0 +1,6 @@
+C:\Users\Johnny\Desktop\Museo\Museo\bin\Debug\Museo.exe.config
+C:\Users\Johnny\Desktop\Museo\Museo\bin\Debug\Museo.exe
+C:\Users\Johnny\Desktop\Museo\Museo\bin\Debug\Museo.pdb
+C:\Users\Johnny\Desktop\Museo\Museo\obj\Debug\Museo.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Museo\Museo\obj\Debug\Museo.exe
+C:\Users\Johnny\Desktop\Museo\Museo\obj\Debug\Museo.pdb
